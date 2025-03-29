@@ -1,0 +1,24 @@
+{
+  "name": "mvp_contract",
+  "version": "1.0.0",
+  "description": "minimal simple storage smart contract built by Truffle and Ganache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lujames13/MVP_contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lujames13/MVP_contract/issues"
+  },
+  "homepage": "https://github.com/lujames13/MVP_contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
